@@ -1,0 +1,40 @@
+﻿Сборка начата 08.01.2025 13:39:50.
+Уровень детализации журнала: Normal.     1>Проект "D:\проекты 3 сем\АСД\лаб 9\lab9\lab9.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\lab9.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt lab9.cpp
+         lab9.cpp
+     1>D:\проекты 3 сем\АСД\лаб 9\lab9\lab9.cpp(17,27): warning C4018: <: несоответствие типов со знаком и без знака
+     1>D:\проекты 3 сем\АСД\лаб 9\lab9\lab9.cpp(24,27): warning C4018: <: несоответствие типов со знаком и без знака
+     1>D:\проекты 3 сем\АСД\лаб 9\lab9\lab9.cpp(41,41): warning C4018: <: несоответствие типов со знаком и без знака
+     1>D:\проекты 3 сем\АСД\лаб 9\lab9\lab9.cpp(48,27): warning C4018: <: несоответствие типов со знаком и без знака
+     1>D:\проекты 3 сем\АСД\лаб 9\lab9\lab9.cpp(125,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>D:\проекты 3 сем\АСД\лаб 9\lab9\lab9.cpp(264,72): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>D:\проекты 3 сем\АСД\лаб 9\lab9\lab9.cpp(265,77): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>D:\проекты 3 сем\АСД\лаб 9\lab9\lab9.cpp(159,17): warning C4101: cityNumber: неиспользованная локальная переменная
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\проекты 3 сем\АСД\лаб 9\lab9\Debug\lab9.exe" /INCREMENTAL /ILK:"Debug\lab9.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\проекты 3 сем\АСД\лаб 9\lab9\Debug\lab9.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\проекты 3 сем\АСД\лаб 9\lab9\Debug\lab9.lib" /MACHINE:X86 Debug\lab9.obj
+         lab9.vcxproj -> D:\проекты 3 сем\АСД\лаб 9\lab9\Debug\lab9.exe
+       FinalizeBuildStatus:
+         Файл "Debug\lab9.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\lab9.tlog\lab9.lastbuildstate".
+     1>Сборка проекта "D:\проекты 3 сем\АСД\лаб 9\lab9\lab9.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\проекты 3 сем\АСД\лаб 9\lab9\lab9.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\проекты 3 сем\АСД\лаб 9\lab9\lab9.cpp(17,27): warning C4018: <: несоответствие типов со знаком и без знака
+         D:\проекты 3 сем\АСД\лаб 9\lab9\lab9.cpp(24,27): warning C4018: <: несоответствие типов со знаком и без знака
+         D:\проекты 3 сем\АСД\лаб 9\lab9\lab9.cpp(41,41): warning C4018: <: несоответствие типов со знаком и без знака
+         D:\проекты 3 сем\АСД\лаб 9\lab9\lab9.cpp(48,27): warning C4018: <: несоответствие типов со знаком и без знака
+         D:\проекты 3 сем\АСД\лаб 9\lab9\lab9.cpp(125,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+         D:\проекты 3 сем\АСД\лаб 9\lab9\lab9.cpp(264,72): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+         D:\проекты 3 сем\АСД\лаб 9\lab9\lab9.cpp(265,77): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+         D:\проекты 3 сем\АСД\лаб 9\lab9\lab9.cpp(159,17): warning C4101: cityNumber: неиспользованная локальная переменная
+
+    Предупреждений: 8
+    Ошибок: 0
+
+Прошло времени 00:00:01.11
